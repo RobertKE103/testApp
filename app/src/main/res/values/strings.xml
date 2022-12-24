@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">TestApplication</string>
+    <string name="bin">Ввести BIN карты</string>
+    <string name="history_requests">История запросов</string>
+    <string name="bin_number">BIN: %d</string>
+    <string name="hide">Скрыть список</string>
+    <string name="show">Показать список</string>
+    <string name="sheme_network">SCHEME/NETWORK</string>
+    <string name="type">TYPE</string>
+    <string name="brand">BRAND</string>
+    <string name="prepaid">PREPAID</string>
+    <string name="card_number">CARD NUMBER</string>
+    <string name="lenght">LENGHT</string>
+    <string name="luhn">LUHN</string>
+    <string name="country">COUNTRY</string>
+    <string name="latitude_d_longitude_d">latitude: %d, longitude: %d</string>
+    <string name="bank">BANK</string>
+    <string name="latitude">latitude</string>
+    <string name="longitude">longitude</string>
+</resources>
